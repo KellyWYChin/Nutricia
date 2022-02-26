@@ -48,7 +48,7 @@ The BS process in as follows:
 
 # Results
 
-See folder results > 2022-02-26 Nutrient variation example.html
+See folder results > 2022-02-26 Nutrient variation example.docx
 
 # Overall findings and room for improvements
 
