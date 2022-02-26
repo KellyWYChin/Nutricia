@@ -1,6 +1,0 @@
-"0",""
-"0","df <- data.frame(SMC)"
-"0","ggplot(df, aes(x=Results)) + "
-"0","  geom_histogram(aes(y=..density..), colour=""black"", fill=""white"", bins = 30)+"
-"0","  geom_density(alpha=.2, fill=""#FF6666"") + xlim(30, 120) + ylim(0, 0.045) +"
-"0","  labs(title = ""SMC"")"
