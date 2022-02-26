@@ -3,10 +3,11 @@ title: "Nutrients variation in milk powder recipe and its modified recipe"
 author: "Kelly Chin"
 geometry: margin = 2cm
 output:
-  html_document:
-    df_print: paged
+  word_document: default
   pdf_document:
     extra_dependencies: subfig
+  html_document:
+    df_print: paged
 toc: yes
 number_sections: yes
 ---
