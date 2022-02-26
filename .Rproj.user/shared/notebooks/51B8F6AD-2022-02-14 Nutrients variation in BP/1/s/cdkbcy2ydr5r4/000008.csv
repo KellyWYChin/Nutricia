@@ -1,0 +1,5 @@
+"0","# modified recipe bs result #"
+"0","ggplot(results, aes(x=results)) + "
+"0","  geom_histogram(aes(y=..density..), colour=""black"", fill=""white"", bins=30)+"
+"0","  geom_density(alpha=.2, fill=""#FF6666"") +"
+"0","  theme_classic() "

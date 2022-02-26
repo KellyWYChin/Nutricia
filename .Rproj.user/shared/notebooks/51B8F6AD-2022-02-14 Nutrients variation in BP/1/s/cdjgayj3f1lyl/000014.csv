@@ -1,0 +1,6 @@
+"0",""
+"0","df <- data.frame(WPC80)"
+"0","p2 <- ggplot(df, aes(x=Results)) + "
+"0","  geom_histogram(aes(y=..density..), colour=""black"", fill=""white"")+"
+"0","  geom_density(alpha=.2, fill=""#FF6666"") + xlim(0, 600) + ylim(0, 0.006) + labs(title = ""WP8S"")"
+"0","p2 "

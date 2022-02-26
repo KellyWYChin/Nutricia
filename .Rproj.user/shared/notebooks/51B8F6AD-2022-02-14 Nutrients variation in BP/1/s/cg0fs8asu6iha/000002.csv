@@ -1,0 +1,5 @@
+"0","library(kableExtra)"
+"0","kable(table, col.names = c(""Method"", ""Min"", ""2.5%"", ""median"", ""mean"", ""97.5%"", ""Max"", ""sd"", ""Range (max-min)"", ""Increased(%)"" , ""Loss(%)""), "
+"0","             align = c(""l"", ""c"", ""c"", ""c"", ""c"", ""c"", ""c"", ""c"", ""c"", ""c"", ""c""),"
+"0","             caption = ""Summary of sodium variation (mg/100g)"", booktabs = T) %>%"
+"0","  kable_styling(latex_options = c(""striped""), font_size = 7)"
