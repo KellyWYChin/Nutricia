@@ -4,7 +4,7 @@ Internship Oct. 2021 - Feb. 2022
 
 Author: Kelly Wen-Yu Chin
 
-### ‼️ Due to the confidential reasons, this file is only for sharing statistics concepts and some useful coding.
+### ‼️Due to the confidential reasons, this file is only for sharing statistics applications and some useful coding.
 
 # Background
 
